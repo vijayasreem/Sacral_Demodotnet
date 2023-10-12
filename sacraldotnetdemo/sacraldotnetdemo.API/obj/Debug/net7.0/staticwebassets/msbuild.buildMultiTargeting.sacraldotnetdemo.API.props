@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sacraldotnetdemo.API.props" />
+</Project>

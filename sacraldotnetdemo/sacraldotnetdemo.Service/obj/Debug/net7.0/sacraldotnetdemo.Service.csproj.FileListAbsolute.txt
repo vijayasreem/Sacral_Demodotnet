@@ -1,0 +1,17 @@
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\bin\Debug\net7.0\sacraldotnetdemo.Service.deps.json
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\bin\Debug\net7.0\sacraldotnetdemo.Service.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\bin\Debug\net7.0\sacraldotnetdemo.Service.pdb
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\bin\Debug\net7.0\sacraldotnetdemo.DataAccess.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\bin\Debug\net7.0\sacraldotnetdemo.DTO.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\bin\Debug\net7.0\sacraldotnetdemo.DTO.pdb
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\bin\Debug\net7.0\sacraldotnetdemo.DataAccess.pdb
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\obj\Debug\net7.0\sacraldotnetdemo.Service.csproj.AssemblyReference.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\obj\Debug\net7.0\sacraldotnetdemo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\obj\Debug\net7.0\sacraldotnetdemo.Service.AssemblyInfoInputs.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\obj\Debug\net7.0\sacraldotnetdemo.Service.AssemblyInfo.cs
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\obj\Debug\net7.0\sacraldotnetdemo.Service.csproj.CoreCompileInputs.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\obj\Debug\net7.0\sacraldotnetdemo.Service.csproj.CopyComplete
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\obj\Debug\net7.0\sacraldotnetdemo.Service.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\obj\Debug\net7.0\refint\sacraldotnetdemo.Service.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\obj\Debug\net7.0\sacraldotnetdemo.Service.pdb
+C:\Amar\Application\20231012_Debug\Apps\1\1753\202310120439\sacraldotnetdemo\sacraldotnetdemo.Service\obj\Debug\net7.0\ref\sacraldotnetdemo.Service.dll

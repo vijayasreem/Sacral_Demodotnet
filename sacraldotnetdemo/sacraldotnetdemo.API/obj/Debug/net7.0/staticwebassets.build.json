@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sIzYz9gWM7M3WUQ4gjuNBhSmGb3Ia/eZI4d6OmytOy4=",
+  "Source": "sacraldotnetdemo.API",
+  "BasePath": "_content/sacraldotnetdemo.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
