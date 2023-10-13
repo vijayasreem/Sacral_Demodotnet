@@ -1,15 +1,15 @@
-﻿
-using System.Collections.Generic;
-using System.Threading.Tasks;
-
-namespace sacraldotnetdemo.Service
+﻿namespace sacraldotnetdemo.Service
 {
+    using System.Threading.Tasks;
+    using sacraldotnetdemo.DTO;
+
     public interface IUserRepository
     {
-        Task<IEnumerable<User>> GetAllAsync();
-        Task<User> GetByIdAsync(int id);
-        Task<int> CreateAsync(User user);
-        Task<int> UpdateAsync(int id, User user);
-        Task<int> DeleteAsync(int id);
+        Task<UserModel> GetById(int id);
+        Task<int> Create(UserModel user);
+        Task Update(UserModel user);
+        Task Delete(int id);
+        Task<bool> IsAnnualIncomeLessThan40K(int id);
+        Task<bool> IsEligibleForInsuranceCover(int id);
     }
 }
