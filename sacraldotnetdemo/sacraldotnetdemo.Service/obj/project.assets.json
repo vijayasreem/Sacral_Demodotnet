@@ -161,11 +161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1753\\202310120439\\sacraldotnetdemo\\sacraldotnetdemo.Service\\sacraldotnetdemo.Service.csproj",
+      "projectUniqueName": "C:\\Amar\\Application\\20231012_Debug\\Apps\\3\\1754\\202310134813\\sacraldotnetdemo\\sacraldotnetdemo.Service\\sacraldotnetdemo.Service.csproj",
       "projectName": "sacraldotnetdemo.Service",
-      "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1753\\202310120439\\sacraldotnetdemo\\sacraldotnetdemo.Service\\sacraldotnetdemo.Service.csproj",
+      "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\3\\1754\\202310134813\\sacraldotnetdemo\\sacraldotnetdemo.Service\\sacraldotnetdemo.Service.csproj",
       "packagesPath": "C:\\Users\\mmadipally\\.nuget\\packages\\",
-      "outputPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1753\\202310120439\\sacraldotnetdemo\\sacraldotnetdemo.Service\\obj\\",
+      "outputPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\3\\1754\\202310134813\\sacraldotnetdemo\\sacraldotnetdemo.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmadipally\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -180,11 +180,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1753\\202310120439\\sacraldotnetdemo\\sacraldotnetdemo.DataAccess\\sacraldotnetdemo.DataAccess.csproj": {
-              "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1753\\202310120439\\sacraldotnetdemo\\sacraldotnetdemo.DataAccess\\sacraldotnetdemo.DataAccess.csproj"
+            "C:\\Amar\\Application\\20231012_Debug\\Apps\\3\\1754\\202310134813\\sacraldotnetdemo\\sacraldotnetdemo.DataAccess\\sacraldotnetdemo.DataAccess.csproj": {
+              "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\3\\1754\\202310134813\\sacraldotnetdemo\\sacraldotnetdemo.DataAccess\\sacraldotnetdemo.DataAccess.csproj"
             },
-            "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1753\\202310120439\\sacraldotnetdemo\\sacraldotnetdemo.DTO\\sacraldotnetdemo.DTO.csproj": {
-              "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1753\\202310120439\\sacraldotnetdemo\\sacraldotnetdemo.DTO\\sacraldotnetdemo.DTO.csproj"
+            "C:\\Amar\\Application\\20231012_Debug\\Apps\\3\\1754\\202310134813\\sacraldotnetdemo\\sacraldotnetdemo.DTO\\sacraldotnetdemo.DTO.csproj": {
+              "projectPath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\3\\1754\\202310134813\\sacraldotnetdemo\\sacraldotnetdemo.DTO\\sacraldotnetdemo.DTO.csproj"
             }
           }
         }
