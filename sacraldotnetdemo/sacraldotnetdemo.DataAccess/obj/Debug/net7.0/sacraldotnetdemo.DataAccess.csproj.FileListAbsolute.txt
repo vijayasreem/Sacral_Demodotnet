@@ -19,3 +19,6 @@ C:\Amar\Application\20231012_Debug\Apps\3\1754\202310134813\sacraldotnetdemo\sac
 C:\Amar\Application\20231012_Debug\Apps\4\1757\202310131814\sacraldotnetdemo\sacraldotnetdemo.DataAccess\obj\Debug\net7.0\sacraldotnetdemo.DataAccess.dll
 C:\Amar\Application\20231012_Debug\Apps\4\1757\202310131814\sacraldotnetdemo\sacraldotnetdemo.DataAccess\obj\Debug\net7.0\refint\sacraldotnetdemo.DataAccess.dll
 C:\Amar\Application\20231012_Debug\Apps\4\1757\202310131814\sacraldotnetdemo\sacraldotnetdemo.DataAccess\obj\Debug\net7.0\sacraldotnetdemo.DataAccess.pdb
+C:\Amar\Application\20231012_Debug\Apps\1\1822\202312132625\sacraldotnetdemo\sacraldotnetdemo.DataAccess\obj\Debug\net7.0\sacraldotnetdemo.DataAccess.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1822\202312132625\sacraldotnetdemo\sacraldotnetdemo.DataAccess\obj\Debug\net7.0\refint\sacraldotnetdemo.DataAccess.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1822\202312132625\sacraldotnetdemo\sacraldotnetdemo.DataAccess\obj\Debug\net7.0\sacraldotnetdemo.DataAccess.pdb

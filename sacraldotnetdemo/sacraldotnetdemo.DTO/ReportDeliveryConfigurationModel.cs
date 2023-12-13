@@ -1,14 +1,30 @@
 ﻿
+using System;
+using System.Collections.Generic;
+
 namespace sacraldotnetdemo
 {
-    public enum DestinationType
+    public class ReportDeliveryConfigurationModel
+    {
+        public DestinationTypeModel DestinationType { get; set; }
+        public string DestinationAddress { get; set; }
+    }
+
+    public enum DestinationTypeModel
     {
         Email,
         CloudStorage,
         InternalServer
     }
 
-    public enum DeliveryFrequency
+    public class DeliveryScheduleModel
+    {
+        public DeliveryFrequencyModel Frequency { get; set; }
+        public List<DayOfWeekModel> DeliveryDays { get; set; }
+        public DateTime DeliveryTime { get; set; }
+    }
+
+    public enum DeliveryFrequencyModel
     {
         Daily,
         Weekly,
@@ -16,22 +32,16 @@ namespace sacraldotnetdemo
         Monthly
     }
 
-    public class ReportDeliveryConfigurationModel
+    public class DayOfWeekModel
     {
-        public DestinationType DestinationType { get; set; }
-        public string DestinationAddress { get; set; }
-
-        public void ValidateDestination()
-        {
-            // Implement the validation logic here
-        }
+        public DayOfWeek Day { get; set; }
+        public bool IsSelected { get; set; }
     }
 
-    public class DeliveryScheduleModel
+    public class FileTypeModel
     {
-        public DeliveryFrequency Frequency { get; set; }
-        public List<DayOfWeek> DeliveryDays { get; set; }
-        public DateTime DeliveryTime { get; set; }
+        public string FileType { get; set; }
+        public string Description { get; set; }
     }
 
     public class NotificationConfigurationModel
@@ -43,23 +53,32 @@ namespace sacraldotnetdemo
 
     public class ReportGeneratorModel
     {
-        public void GenerateReport(string fileType)
+        public void GenerateReport(FileTypeModel fileType)
         {
-            // Implement the logic for generating reports based on the selected file type
+            // Logic for generating reports based on the selected file type
         }
     }
 
     public class DeliverySchedulerModel
     {
-        public void ConfigureDeliverySchedule(DeliveryScheduleModel schedule)
+        public void ConfigureDeliverySchedule(NotificationConfigurationModel notificationConfig, DeliveryScheduleModel deliverySchedule)
         {
-            // Implement the logic for configuring the delivery schedule
+            // Logic for configuring the delivery schedule
         }
 
         public DeliveryScheduleModel GetDeliverySchedule()
         {
-            // Implement the logic for retrieving the delivery schedule
+            // Logic for retrieving the delivery schedule
             return new DeliveryScheduleModel();
+        }
+    }
+
+    public class FileTypeController
+    {
+        public List<FileTypeModel> GetFileTypes()
+        {
+            // Logic for retrieving file types
+            return new List<FileTypeModel>();
         }
     }
 }

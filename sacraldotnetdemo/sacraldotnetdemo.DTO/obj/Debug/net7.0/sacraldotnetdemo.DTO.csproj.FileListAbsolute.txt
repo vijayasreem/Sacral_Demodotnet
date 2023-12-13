@@ -26,3 +26,11 @@ C:\Amar\Application\20231012_Debug\Apps\4\1757\202310131814\sacraldotnetdemo\sac
 C:\Amar\Application\20231012_Debug\Apps\4\1757\202310131814\sacraldotnetdemo\sacraldotnetdemo.DTO\obj\Debug\net7.0\sacraldotnetdemo.DTO.dll
 C:\Amar\Application\20231012_Debug\Apps\4\1757\202310131814\sacraldotnetdemo\sacraldotnetdemo.DTO\obj\Debug\net7.0\refint\sacraldotnetdemo.DTO.dll
 C:\Amar\Application\20231012_Debug\Apps\4\1757\202310131814\sacraldotnetdemo\sacraldotnetdemo.DTO\obj\Debug\net7.0\sacraldotnetdemo.DTO.pdb
+C:\Amar\Application\20231012_Debug\Apps\1\1822\202312132625\sacraldotnetdemo\sacraldotnetdemo.DTO\obj\Debug\net7.0\sacraldotnetdemo.DTO.csproj.AssemblyReference.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1822\202312132625\sacraldotnetdemo\sacraldotnetdemo.DTO\obj\Debug\net7.0\sacraldotnetdemo.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Application\20231012_Debug\Apps\1\1822\202312132625\sacraldotnetdemo\sacraldotnetdemo.DTO\obj\Debug\net7.0\sacraldotnetdemo.DTO.AssemblyInfoInputs.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1822\202312132625\sacraldotnetdemo\sacraldotnetdemo.DTO\obj\Debug\net7.0\sacraldotnetdemo.DTO.AssemblyInfo.cs
+C:\Amar\Application\20231012_Debug\Apps\1\1822\202312132625\sacraldotnetdemo\sacraldotnetdemo.DTO\obj\Debug\net7.0\sacraldotnetdemo.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Application\20231012_Debug\Apps\1\1822\202312132625\sacraldotnetdemo\sacraldotnetdemo.DTO\obj\Debug\net7.0\sacraldotnetdemo.DTO.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1822\202312132625\sacraldotnetdemo\sacraldotnetdemo.DTO\obj\Debug\net7.0\refint\sacraldotnetdemo.DTO.dll
+C:\Amar\Application\20231012_Debug\Apps\1\1822\202312132625\sacraldotnetdemo\sacraldotnetdemo.DTO\obj\Debug\net7.0\sacraldotnetdemo.DTO.pdb

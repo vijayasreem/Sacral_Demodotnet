@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Td/+GF2/WM7vv0lwV95D/OlphTUOnFr7oeJ14AYAqGCtGAIJiJ4ZflpYNzUCAzyZLE0gNcPSbZiBaB+8Nd/mnw==",
+  "dgSpecHash": "mFyvawBEhnB+m2LBScHSAsTgQywcG+YGjF9IwJ+7rxlrltElFNNVgse+OFsBSL0kkrgFHfF4DAgMdvM7nE8EGQ==",
   "success": true,
-  "projectFilePath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\4\\1757\\202310131814\\sacraldotnetdemo\\sacraldotnetdemo.Service\\sacraldotnetdemo.Service.csproj",
+  "projectFilePath": "C:\\Amar\\Application\\20231012_Debug\\Apps\\1\\1822\\202312132625\\sacraldotnetdemo\\sacraldotnetdemo.Service\\sacraldotnetdemo.Service.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mmadipally\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\mmadipally\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512"
+    "C:\\Users\\mmadipally\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mmadipally\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mmadipally\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }
